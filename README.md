@@ -24,4 +24,4 @@ O site foi projetado para um display de 1366 x 768!
 
 ### Para visualizar basta abrir o link:
 
-https://moisessantana.github.io/pixel-art/
+https://moisessantana.github.io/to-do-list/
