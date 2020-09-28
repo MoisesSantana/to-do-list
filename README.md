@@ -1,7 +1,7 @@
 ![Banner da Trybe](./trybe-banner.jpeg)
-# Projeto Pixel Art
+# Projeto To do List
 
-Pixel Art é um projeto idealizado pela Trybe onde temos como tarefa criar uma página web usando HTML5/CSS3/JavaScript, a página permite o cliente criar uma lista de tarefas, essa lista de tarefas tem as seguintes interações possíveis:
+To do List é um projeto idealizado pela Trybe onde temos como tarefa criar uma página web usando HTML5/CSS3/JavaScript, a página permite o cliente criar uma lista de tarefas, essa lista de tarefas tem as seguintes interações possíveis:
 
 * Marcar tarefas como concluídas (dois cliques)
 * Selecionar uma tarefa (clique)
